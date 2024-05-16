@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepika-R-datanalysis
-- 👀 I’m interested in data analysis ,sql,python
-- 🌱 I’m a software developer with 5 years as a mainframe developer
-- 💞️ I’m looking to collaborate on projects using sql /database management
+- 👀 I have started my journey in data science,data analysis with python,sql ,tableau and ML algorithms
+- 🌱 I’m a software developer with 5 years experience as a mainframe developer
+- 💞️ I’m looking to collaborate on projects using python/streamlit/sql /database management
 - 📫 You can reach me @deep.maha0706@gmail.com and on linkedin [@DeepikaRavikumar](https://www.linkedin.com/in/deepika-ravikumar-95533194)
 - Smart,Organized,able to multitask
 
