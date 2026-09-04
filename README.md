@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepika-R-datanalysis
 - 👀 I have started my journey in data science,data analysis .SKILLSET: Python,Sql ,Tableau ,PowerBI,Machine Learning ,
-- 🌱 I’m a software developer with 5 years experience as a mainframe developer
+- 🌱 I’m a data analyst & software developer with 7 years experience.
 - 💞️ I’m looking to collaborate on projects using python/streamlit/sql /Power BI/Tableau /ML/database management
 - 📫 You can reach me @deep.maha0706@gmail.com and on linkedin (https://www.linkedin.com/in/DeepikaRavikumar250989)
 - Smart,Organized,able to multitask,Quick Learner
